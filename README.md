@@ -3,10 +3,6 @@
 Welcome to the **Hospital Management System** built using **Java JDBC**!  
 This system is designed to manage hospital operations like patient admission, doctor appointments, billing, and more through a **console-based interface**.  
 
-🔗 **GitHub Repository:** [Hospital-Management-System](https://github.com/swagsphs101/Hospital-Management-System)
-
----
-
 ## 📌 Features
 
 - 👨‍⚕️ Add/View/Delete Doctors
